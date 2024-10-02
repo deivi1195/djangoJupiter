@@ -1,0 +1,25 @@
+
+.charfield(max_length=255) (charfield necesita establecer la cantidad de caracteres)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
